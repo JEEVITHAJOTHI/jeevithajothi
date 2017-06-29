@@ -18,6 +18,7 @@ public class Gcd1 {
                 n2 = r;
             }
             System.out.print("GCD = "+n1);
+            
         }
     
     }
